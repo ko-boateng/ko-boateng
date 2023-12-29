@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **Cloud Engineering**
 
+- 💬 Ask me about **django, python, Angular, TypeScript, azure**
+
+- 📫 How to reach me **ko.boateng@outlook.ccom**
+
 - ⚡ Fun fact: **I Love Pineapples**
 
 <h3 align="left">Connect with me:</h3>
