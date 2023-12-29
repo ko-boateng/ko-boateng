@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud Engineering**
 
-- 💬 Ask me about **django, python, Angular, TypeScript, azure**
+- 💬 Ask me about **Django, Python, Angular, TypeScript, Microsoft Azure**
 
 - 📫 How to reach me **ko.boateng@outlook.ccom**
 
