@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kwaku Boateng</h1>
 <h3 align="center">A passionate backend engineer from Ghana</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ko.boateng@outlook.com</h3>
 <p align="left">
 </p>
 
